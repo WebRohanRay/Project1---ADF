@@ -1,0 +1,9 @@
+{
+	"name": "eommerce",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5bc5f972-30aa-4c31-9e37-0ac01b8899b8",
+		"tenantId": "b47144b3-ed91-4f58-a6e8-548f72e8a37e"
+	}
+}
